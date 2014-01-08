@@ -1,0 +1,14 @@
+/*
+Theme Name:     Twenty Eleven BarCamp
+Theme URI:      http: //example.com/
+Description:    Igal Memorial child theme for the Twenty Eleven theme
+Author:         Christie Koehler
+Author URI:     http: //example.com/about/
+Template:       twentyeleven
+Version:        0.1.0
+*/
+
+@import url("../twentyeleven/style.css");
+
+#linkcat-21  ul { list-style-type: none; }
+#linkcat-22  ul { list-style-type: none; }
